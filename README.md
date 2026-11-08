@@ -2,3 +2,4 @@
 
 University GitLab:
 https://git.hs-mittweida.de/tschuetz
+Endress+Hauser GitLab: private
